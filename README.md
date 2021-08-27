@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Leo García. Computer systems engineering student.
 - 👀 I'm interested in web development both front-end and back-end.
-- 🌱 I'm currently learning Node js and the Angular framework.
+- 🌱 I'm currently learning Spring, Node js and the Angular framework.
 - 💞️ I'm looking to collaborate on projects that help me gain experience and put my skills into practice.
 - 📫 Contact leo26275@gmail.com
 
