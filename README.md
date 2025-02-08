@@ -6,7 +6,7 @@
 About Me:
 - 🎓 Computer Systems Engineer with experience in banking and financial applications.
 - 💡 Specialized in PL/SQL, Java, C#, and proficient in web development (Front-end & Back-end).
--🌱 Currently enhancing my skills in Spring, Node.js, and Angular.
+- 🌱 Currently enhancing my skills in Spring, Node.js, and Angular.
 - 🔍 Interested in Cybersecurity, DevOps (Cloud), and Data Science.
 - 🤝 Open to collaborating on projects that challenge me and expand my expertise.
 - 📩 Contact: leo26275@gmail.com
